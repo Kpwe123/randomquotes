@@ -1,0 +1,45 @@
+body {
+    padding: 10px;
+    background-color: rgb(209, 178, 125);
+    font-family: "Montserrat", sans-serif;
+}
+
+section{
+    background-color: white;
+    min-width:100px;
+    max-width: 900px;
+    height: 250px;
+    border-radius: 5px;
+    text-align: center;
+    margin-left:  auto;
+    margin-right:  auto;
+    margin-top: 15em;
+}
+
+button{
+    margin-top: 2em;
+    border-radius: 2px;
+    box-shadow: 5px 5px 15px 5px rgba(120, 119, 119, 0.36);
+    outline: none;
+    font-size: larger;
+    font-family: "Lobster", sans-serif;
+    background-color: rgb(209, 178, 125);
+}
+
+button:hover{
+    background-color: rgb(44, 57, 57);
+    color: aliceblue;
+}
+
+h3{
+    padding: 15px;
+    font-family: "Montserrat", sans-serif;
+
+}
+
+p{
+    text-align: end;
+    margin-top: 3em;
+    padding-right:15px;
+    color: rgb(130, 107, 68);;
+}
